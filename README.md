@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with web development companies
 - 📫 You can give any suggetion to me via my mail id: shivanimahajan7452@gmail.com 
-- 😄 Pronouns: she
 - ⚡ Fun fact: I`m always be over excited
 
 <!---
